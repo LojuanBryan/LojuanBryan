@@ -3,7 +3,7 @@
 - 📌 São Paulo, SP
 - 🌱 Estudante de análise e desenvolvimento de sistemas. 
 - 💻 Procurando me aprimorar na area desenvolvendo novos projetos e atividades.
-- 📫 Como me achar: <div> <a href="https://www.linkedin.com/in/lojuan-bryan-83360220b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 📫 Como me achar: <div> <a href="https://www.linkedin.com/in/lojuan-bryan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:lojuanbryan9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
